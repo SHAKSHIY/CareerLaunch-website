@@ -38,24 +38,3 @@
     "vite": "^5.2.0"
   }
 }
-{
-  "name": "careerlaunch-server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "nodemon index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "mongodb": "^6.8.0",
-    "nodemon": "^3.1.4",
-    "react-router-dom": "^6.24.1",
-    "sweetalert2": "^11.12.3"
-  }
-}
